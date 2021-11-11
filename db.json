@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "jussi",
+      "number": "43897593",
+      "id": 1
+    },
+    {
+      "name": "jaakko",
+      "number": "0987654321",
+      "id": 2
+    },
+    {
+      "name": "topi",
+      "number": "010101",
+      "id": 3
+    },
+    {
+      "name": "testi",
+      "number": "4242424242",
+      "id": 4
+    },
+    {
+      "name": "jorma",
+      "number": " 999",
+      "id": 5
+    },
+    {
+      "name": "sakari",
+      "number": "832978",
+      "id": 6
+    }
+  ]
+}
